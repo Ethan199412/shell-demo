@@ -1,0 +1,9 @@
+total 48
+drwxr-xr-x  4 lijiahao  staff   128  9 20 19:14 awk
+-rw-r--r--  1 lijiahao  staff    33  8 11 19:31 index.js
+-rw-r--r--  1 lijiahao  staff    81  8 11 17:40 load.sh
+-rw-r--r--  1 lijiahao  staff     0  9 20 19:24 ls.txt
+-rw-r--r--  1 lijiahao  staff   249  8 11 17:26 package.json
+-rw-r--r--  1 lijiahao  staff  7588  9 20 18:08 passwd.txt
+-rw-r--r--  1 lijiahao  staff    87  9 19 17:59 student.txt
+haha
