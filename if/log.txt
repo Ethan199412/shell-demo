@@ -1,0 +1,3 @@
+2022年 9月22日 星期四 14时42分50秒 CST restart node
+2022年 9月22日 星期四 14时43分41秒 CST restart node
+node is ok
